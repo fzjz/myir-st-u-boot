@@ -4,7 +4,7 @@
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
 
 Summary:
-========
+========:::
 
 This directory contains the source code for U-Boot, a boot loader for
 Embedded boards based on PowerPC, ARM, MIPS and several other
